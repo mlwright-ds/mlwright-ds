@@ -1,3 +1,6 @@
+
+*"Turning data into insights, requirements into solutions, and challenges into opportunities."* 🎯
+
 # Hi there! 👋 I'm Michelle Wright
 
 **Data Governance Analyst** | Senior Data & Systems Engineer | Requirements & Documentation Expert
@@ -27,51 +30,6 @@ Currently pursuing a **Master of Science in Data Science** at Belhaven Universit
 - **Process Optimization**: Workflow analysis and performance enhancement through data-driven insights
 - **Project Management**: Strategic planning and cross-functional team leadership
 
-## 💡 Key Competencies
-
-✅ Requirements Gathering & Analysis  
-✅ Systems & Software Engineering  
-✅ Data Governance & Quality Management  
-✅ Technical Documentation & Specification Writing  
-✅ Cross-functional Collaboration  
-✅ Process & Workflow Analysis  
-✅ Third-party Data Integration  
-✅ Algorithm Development & Data Modeling  
-✅ Operational Performance Enhancement  
-✅ Project Management & Strategic Planning  
-✅ Lean Six Sigma & Process Improvement  
-
-## 🏢 Professional Experience
-
-**Data Governance Analyst II** | Trend Health Partners *(Current)*  
-Remote | Jan 2026 - Present
-
-**Software Programmer** | Cotiviti (formerly Intrado) *(4 yrs 7 mos)*  
-Remote | Jun 2021 - Dec 2025  
-Examined and analyzed internal and external data to improve revenue generation; performed comprehensive data profiling; collaborated with Business Analysts and IT personnel; developed scripts and enhanced reporting capabilities; created sophisticated algorithms and models for operational performance improvements.
-
-**IT Data Conversion Analyst** | Intrado / West Asset Management *(12 yrs 2 mos)*  
-Jun 2009 - Jul 2021  
-Pioneered data analysis, quality programs, and technical support; developed scripts for enhanced reporting; worked collaboratively with internal and external clients.
-
-## 🎓 Education
-
-**Master of Science in Data Science**  
-*Belhaven University* | Oct 2024 - Sept 2026  
-Advancing expertise in advanced analytics, machine learning, and data-driven decision making.
-
-**Master of Information Systems (MIS), Project Management**  
-*Bellevue University* | 2004 - 2010  
-GPA: 4.0 (Honors) 🏆  
-Specialized in strategic project management and information systems architecture.
-
-## 🏅 Certifications & Credentials
-
-- **Lean Six Sigma Green Belt Certification – Level II** | Educate 360 *(Jan 2026)* 🟢  
-  Certified in Lean methodologies and Six Sigma process improvement techniques
-  
-- **SQL for Data Analysis** | LinkedIn Learning *(Dec 2021)*  
-  Advanced SQL skills for data extraction, transformation, and analysis
 
 ## 🚀 What I'm Currently Working On
 
@@ -92,5 +50,5 @@ I'm always interested in discussing data governance, system integration, data sc
 
 ---
 
-*"Turning data into insights, requirements into solutions, and challenges into opportunities."* 🎯
+
 
